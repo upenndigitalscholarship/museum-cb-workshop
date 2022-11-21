@@ -1,3 +1,7 @@
+This repository was used for Fall 2022 workshop, "Publish a Digital Collection with CollectionBuilder." See the RDDS Box Folder for workshop notes. 
+
+This repository has been made private at the Penn Museum's request. If someone wants to use this repository/data again, please follow up with Jessica Milby. 
+
 # collectionbuilder-gh
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
